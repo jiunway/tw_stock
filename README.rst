@@ -1,4 +1,3 @@
-# tw_stock
 Get Taiwan's stock info in real-time
 
 Example:
