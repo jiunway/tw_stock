@@ -7,7 +7,6 @@ import os
 import urllib
 import json
 import sys
-from bs4 import BeautifulSoup
 
 stock_no = sys.argv[1]
 
