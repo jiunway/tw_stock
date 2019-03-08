@@ -1,4 +1,4 @@
 # tw_stock
-get real-time Taiwan's stock info 
+Get Taiwan's stock info in real-time
 
 ex. python3 get_real_stock_info.py 2330
